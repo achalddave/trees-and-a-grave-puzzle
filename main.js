@@ -68,6 +68,7 @@ Tree.prototype.draw = function() {
   this.tree.toFront();
 
   if (this.treasure) this.treasure.draw();
+  if (this.graveyard) this.graveyard.grave.toFront();
 }
 
 Tree.prototype._setHandlers = function() {
