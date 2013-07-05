@@ -175,8 +175,8 @@ $(function() {
   var grave = new Graveyard(paper, width/2, height/2, 20, '#ccc');
   grave.draw();
 
-  var tree1 = new Tree(paper,width/5,height/2, 10,'#f00','#d00');
-  var tree2 = new Tree(paper,width*4/5, height/2, 10,'#0ff', '#0dd');
+  var tree1 = new Tree(paper,width/5,height/2, 10,'#0f0','#d00');
+  var tree2 = new Tree(paper,width*4/5, height/2, 10,'#0f0', '#0dd');
 
   grave.setTrees(tree1,tree2);
 
