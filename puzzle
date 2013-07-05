@@ -1,0 +1,16 @@
+ An old parchment has directions to a treasure chest buried in an island:
+
+> There is an unmarked grave and two tall oak trees. Walk from the grave to the
+> left tree, counting the number of steps. Upon reaching the left tree, turn
+> left by 90 degrees and walk the same number of steps. Mark the point with a
+> flag.  Return to the grave. Now, walk towards the right tree, counting the
+> number of steps. Upon reaching the right tree, turn right by 90 degrees and
+> walk the same number of steps. Mark this point with another flag. The
+> treasure lies at the midpoint of the two flags. 
+
+A party of sailors reached the island. They find a pair of tall oak trees
+merrily swaying in the wind. However, the unmarked grave is nowhere to be
+found. They are planning to dig up the entire island. It'll take a month. Can
+they do any better? 
+
+Source: http://gurmeet.net/puzzles/treasure-island/
